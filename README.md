@@ -8,3 +8,9 @@ Integrantes:
 
 # Diagrama Estructura Mensaje
 ![MessageStructure.jpeg](img%2FMessageStructure.jpeg)
+
+# Server running
+![ServerResponse.png](img%2FServerResponse.png)
+
+# Data collected
+![CollectedData.png](img%2FCollectedData.png)
